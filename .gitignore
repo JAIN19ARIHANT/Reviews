@@ -1,0 +1,8 @@
+.metadata/
+RechargeSimulation/.settings/
+RechargeSimulation/.classpath
+RechargeSimulation/.project
+
+
+RechargeSimulation/bin/
+RechargeSimulation/**/*.class
