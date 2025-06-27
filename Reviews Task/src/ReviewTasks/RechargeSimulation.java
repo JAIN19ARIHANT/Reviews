@@ -1,4 +1,4 @@
-package RechargeSimulation;
+package ReviewTasks;
 import java.util.Scanner;
 
 public class RechargeSimulation {

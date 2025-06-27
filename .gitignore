@@ -1,8 +1,8 @@
 .metadata/
-RechargeSimulation/.settings/
-RechargeSimulation/.classpath
-RechargeSimulation/.project
+Reviews Task/.settings/
+Reviews Task/.classpath
+Reviews Task/.project
 
 
-RechargeSimulation/bin/
-RechargeSimulation/**/*.class
+Reviews Task/bin/
+Reviews Task/**/*.class
